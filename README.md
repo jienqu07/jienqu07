@@ -9,7 +9,6 @@
 If you love fractals, do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)   
 Moreover, collaborators needed for my skid [trolling campaign](https://github.com/deut-erium/hacking_tools)
 
-![deuterium's github](https://github-readme-stats.vercel.app/api?username=deut-erium&show_icons=true&hide_border=true)
 
 <p align="center">
  <a href="mailto:himanshuthesheoran@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
